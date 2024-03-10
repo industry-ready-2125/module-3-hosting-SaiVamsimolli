@@ -1,0 +1,16 @@
+.list{
+    list-style-type: none;
+}
+li{
+    color: white;
+    text-align: center;
+    font-size: large;
+    background-color : rgb(29, 42, 53);
+    padding: 10px;
+    left: -10px;
+}
+.list:hover{
+    color:  #c7a568;
+    font-size: larger;
+    background-color : rgba(255,255,255,0.3);
+}

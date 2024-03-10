@@ -1,0 +1,33 @@
+.list{
+    float: left;
+    list-style-type: none;
+    font-size: larger;
+}
+#list,#b{
+    padding: 10px;
+}
+input{
+    width: 250px;
+    height: 25px;
+    border-radius: 30px;
+}
+div{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+button{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: large;
+    background-color:#ffdb99;
+}
+button:hover{
+    padding: 20px;
+    border-radius: 20px;
+    font-size: large;
+    scale: 1;
+}
+#list:hover{
+    background-color: #059862;
+}
